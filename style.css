@@ -1,6 +1,8 @@
 body {
     background-color:rgb(51, 51, 133);
     font-family:sans-serif;
+    color:rgb(211, 211, 211);
+    
 }
 
 a {
@@ -21,4 +23,9 @@ li {
 
 a:hover {
     background-color:rgb(86, 86, 202);
+}
+
+img {
+    width:400px;
+    height:400px;
 }
